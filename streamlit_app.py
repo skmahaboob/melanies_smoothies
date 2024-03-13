@@ -5,9 +5,9 @@ import requests
 
 
 # Write directly to the app
-st.title("My Parents New Healthy Dinner:")
+st.title(":cup_with_straw: Customize your Smoothie!:cup_with_straw:")
 st.write(
-    """Breakfast Menu
+    """Choose the fruits you want in your custome Smoothie!
     """
 )
 
